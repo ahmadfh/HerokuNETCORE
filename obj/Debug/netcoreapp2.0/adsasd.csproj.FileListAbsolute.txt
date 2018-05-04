@@ -1,0 +1,10 @@
+/Users/ahmadhamed/Desktop/adsasd/bin/Debug/netcoreapp2.0/adsasd.deps.json
+/Users/ahmadhamed/Desktop/adsasd/bin/Debug/netcoreapp2.0/adsasd.runtimeconfig.json
+/Users/ahmadhamed/Desktop/adsasd/bin/Debug/netcoreapp2.0/adsasd.runtimeconfig.dev.json
+/Users/ahmadhamed/Desktop/adsasd/bin/Debug/netcoreapp2.0/adsasd.dll
+/Users/ahmadhamed/Desktop/adsasd/bin/Debug/netcoreapp2.0/adsasd.pdb
+/Users/ahmadhamed/Desktop/adsasd/obj/Debug/netcoreapp2.0/adsasd.csproj.CoreCompileInputs.cache
+/Users/ahmadhamed/Desktop/adsasd/obj/Debug/netcoreapp2.0/adsasd.AssemblyInfoInputs.cache
+/Users/ahmadhamed/Desktop/adsasd/obj/Debug/netcoreapp2.0/adsasd.AssemblyInfo.cs
+/Users/ahmadhamed/Desktop/adsasd/obj/Debug/netcoreapp2.0/adsasd.dll
+/Users/ahmadhamed/Desktop/adsasd/obj/Debug/netcoreapp2.0/adsasd.pdb

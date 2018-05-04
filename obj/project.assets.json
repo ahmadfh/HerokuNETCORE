@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmadhamed/Desktop/test/test.csproj",
-      "projectName": "test",
-      "projectPath": "/Users/ahmadhamed/Desktop/test/test.csproj",
+      "projectUniqueName": "/Users/ahmadhamed/Desktop/adsasd/adsasd.csproj",
+      "projectName": "adsasd",
+      "projectPath": "/Users/ahmadhamed/Desktop/adsasd/adsasd.csproj",
       "packagesPath": "/Users/ahmadhamed/.nuget/packages/",
-      "outputPath": "/Users/ahmadhamed/Desktop/test/obj/",
+      "outputPath": "/Users/ahmadhamed/Desktop/adsasd/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
