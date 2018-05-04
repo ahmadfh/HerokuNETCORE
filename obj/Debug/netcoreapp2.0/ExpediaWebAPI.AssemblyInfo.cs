@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("adsasd")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ExpediaWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("adsasd")]
-[assembly: System.Reflection.AssemblyTitleAttribute("adsasd")]
+[assembly: System.Reflection.AssemblyProductAttribute("ExpediaWebAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ExpediaWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
