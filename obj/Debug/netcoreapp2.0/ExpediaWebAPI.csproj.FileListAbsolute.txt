@@ -1,0 +1,33 @@
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.deps.json
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.runtimeconfig.json
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.runtimeconfig.dev.json
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.dll
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.csprojResolveAssemblyReference.cache
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.AssemblyInfoInputs.cache
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.AssemblyInfo.cs
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.pdb
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.dll
+C:/Users/r.hamed/Documents/Visual Studio 2017/Projects/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.pdb
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.deps.json
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.runtimeconfig.json
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.runtimeconfig.dev.json
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.dll
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.pdb
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.csprojResolveAssemblyReference.cache
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.csproj.CoreCompileInputs.cache
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.AssemblyInfoInputs.cache
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.AssemblyInfo.cs
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.dll
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.pdb
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.deps.json
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.runtimeconfig.json
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.runtimeconfig.dev.json
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.dll
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/bin/Debug/netcoreapp2.0/ExpediaWebAPI.pdb
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.csprojResolveAssemblyReference.cache
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.csproj.CoreCompileInputs.cache
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.AssemblyInfoInputs.cache
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.AssemblyInfo.cs
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.dll
+/Users/ahmadhamed/Desktop/template/ExpediaWebAPI/obj/Debug/netcoreapp2.0/ExpediaWebAPI.pdb
